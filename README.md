@@ -1,4 +1,4 @@
-# SwasthyaSaathi MVP (WhatsApp/SMS Awareness-Only Chatbot)
+# SAHYOG MVP (WhatsApp/SMS Awareness-Only Chatbot)
 
 A 3–4 hour **minimum viable product** for a multilingual, awareness-first public health chatbot.
 **No diagnosis**; only **preventive tips**, **vaccination schedule awareness**, and **mock local alerts**.
