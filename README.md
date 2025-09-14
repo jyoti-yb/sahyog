@@ -106,9 +106,3 @@ swasthyasaathi_mvp/
 
 ---
 
-## 🧱 Next (if time remains)
-- Add Bhashini/ULCA translate + TTS, and cache translations locally.
-- Add a small cron fetcher for WHO Disease Outbreak News & IDSP weekly PDF parsing.
-- Replace mock alert endpoint with real, filtered alerts.
-
-Good luck—ship it! 🛠️
